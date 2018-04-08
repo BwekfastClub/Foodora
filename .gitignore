@@ -70,4 +70,8 @@ fabric.properties
 # Environment files
 .env
 
+# Coverage folder
+coverage/
+.nyc_output/
+
 # End of https://www.gitignore.io/api/webstorm

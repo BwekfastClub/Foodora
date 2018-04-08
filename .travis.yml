@@ -9,5 +9,6 @@ services:
 script: 
   - npm run lint
   - npm run test
+  - npm run coverage
 notifications:
   slack: bwekfastclub:apMLylCPCrM8rZTKlRkUOohL
